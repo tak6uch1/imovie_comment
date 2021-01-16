@@ -1,0 +1,6 @@
+#Font,Size,Color,StrokeWidth,StrokeColor,Gravity,Annotate,Comment
+/Library/Fonts/SourceHanSans-Heavy.otf,80,#3377CC,2,white,south,+0+10,割とよくあるコメント
+/Library/Fonts/SourceHanSans-Heavy.otf,80,red,2,white,south,+0+10,長い文章のときは<br>改行を入れると良い
+/Library/Fonts/SourceHanSans-Heavy.otf,80,blue,2,white,west,+0+0,【箇条書き】<br>・左詰めはwest<br>・青字にしてみた
+/System/Library/Fonts/Keyboard.ttf,70,red,2,white,north,+0-10,sample command
+/Library/Fonts/SourceHanSans-Heavy.otf,200,#3377CC,2,white,center,+0+0,デカ字
