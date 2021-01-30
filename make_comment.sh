@@ -1,4 +1,7 @@
 #!/bin/sh
+# Copyright (c) 2021 Takenoshin
+# Released under the MIT license
+# https://opensource.org/licenses/mit-license.php
 
 MOV_SIZE=1280x720
 echo "MOV_SIZE: $MOV_SIZE"
